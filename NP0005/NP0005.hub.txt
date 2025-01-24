@@ -1,0 +1,5 @@
+hub hub
+shortLabel NP0005
+longLabel NP0005
+genomesFile NP0005.genomes.txt
+email emily.miyoshi@nlorem.org

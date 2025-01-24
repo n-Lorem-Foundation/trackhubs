@@ -1,0 +1,42 @@
+track spliceai
+shortLabel spliceai
+longLabel spliceai
+type bigWig
+aggregate transparentOverlay
+maxHeightPixels 100:16:8
+showSubtrackColorOnUi on
+viewLimits -1:1
+visibility full
+container multiWig
+
+    track spliceaiacceptorgainmin02
+    bigDataUrl spliceaiacceptorgainmin02.bigWig
+    shortLabel spliceaiacceptorgainmin02
+    longLabel spliceaiacceptorgainmin02
+    type bigWig
+    parent spliceai
+    visibility full
+
+    track spliceaidonorlossmin02
+    bigDataUrl spliceaidonorlossmin02.bigWig
+    shortLabel spliceaidonorlossmin02
+    longLabel spliceaidonorlossmin02
+    type bigWig
+    parent spliceai
+    visibility full
+
+    track spliceaidonorgainmin02
+    bigDataUrl spliceaidonorgainmin02.bigWig
+    shortLabel spliceaidonorgainmin02
+    longLabel spliceaidonorgainmin02
+    type bigWig
+    parent spliceai
+    visibility full
+
+    track spliceaiacceptorlossmin02
+    bigDataUrl spliceaiacceptorlossmin02.bigWig
+    shortLabel spliceaiacceptorlossmin02
+    longLabel spliceaiacceptorlossmin02
+    type bigWig
+    parent spliceai
+    visibility full
