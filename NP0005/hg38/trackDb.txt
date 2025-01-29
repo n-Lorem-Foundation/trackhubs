@@ -8,6 +8,7 @@ scoreMin 0
 spectrum on
 visibility pack
 
+track spliceai
 shortLabel spliceai
 longLabel spliceai
 type bigWig
