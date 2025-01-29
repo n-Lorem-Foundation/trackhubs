@@ -1,5 +1,5 @@
 track spliceai
-bigDataUrl output/spliceai/spliceaimin02.inter.bb
+bigDataUrl spliceaimin02.inter.bb
 shortLabel spliceai
 longLabel spliceaiInteract
 type bigInteract
